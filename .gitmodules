@@ -1,0 +1,3 @@
+[submodule "QuanLyDongHoD"]
+	path = QuanLyDongHoD
+	url = https://github.com/KhiemDuc/QuanLyDongHo.git

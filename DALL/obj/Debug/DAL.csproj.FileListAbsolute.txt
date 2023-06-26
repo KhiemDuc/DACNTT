@@ -1,0 +1,12 @@
+D:\Net\QuanLyDongHo\TodoApp\DALL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Net\QuanLyDongHo\TodoApp\DALL\bin\Debug\DAL.dll
+D:\Net\QuanLyDongHo\TodoApp\DALL\bin\Debug\DAL.pdb
+D:\Net\QuanLyDongHo\TodoApp\DALL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Net\QuanLyDongHo\TodoApp\DALL\obj\Debug\DAL.dll
+D:\Net\QuanLyDongHo\TodoApp\DALL\obj\Debug\DAL.pdb
+D:\Net\QuanLyDongHo\QuanLyDongHo\DALL\bin\Debug\DAL.dll
+D:\Net\QuanLyDongHo\QuanLyDongHo\DALL\bin\Debug\DAL.pdb
+D:\Net\QuanLyDongHo\QuanLyDongHo\DALL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Net\QuanLyDongHo\QuanLyDongHo\DALL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Net\QuanLyDongHo\QuanLyDongHo\DALL\obj\Debug\DAL.dll
+D:\Net\QuanLyDongHo\QuanLyDongHo\DALL\obj\Debug\DAL.pdb
